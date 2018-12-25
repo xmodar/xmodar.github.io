@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Modar Alfadly</title>
+    <link>https://modar.me/publication_types/1/</link>
+    <description>Recent content in 1 on Modar Alfadly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://modar.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Novel Framework for Robustness Analysis of Visual QA Models</title>
+      <link>https://modar.me/publication/vqabq-aaai19/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/publication/vqabq-aaai19/</guid>
+      <description>In AAAI19, a record number of over 7700 papers were submitted, 7095 were reviewed, a record low of 1150 papers (16.2%) were accepted [source1 - sourc2]</description>
+    </item>
+    
+    <item>
+      <title>Analytic Expressions for Probabilistic Moments of PL-DNN with Gaussian Input</title>
+      <link>https://modar.me/publication/gnm-cvpr18/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/publication/gnm-cvpr18/</guid>
+      <description>In CVPR18, a total of 3359 papers were submitted, 979 papers (29.1%) were accepted, 224 were Spotlights (6.7%), and 70 were Orals (2.1%) [source]</description>
+    </item>
+    
+  </channel>
+</rss>

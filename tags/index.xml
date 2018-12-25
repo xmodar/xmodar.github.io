@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Modar Alfadly</title>
+    <link>https://modar.me/tags/</link>
+    <description>Recent content in Tags on Modar Alfadly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="https://modar.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>network moments</title>
+      <link>https://modar.me/tags/network-moments/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/tags/network-moments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robustness</title>
+      <link>https://modar.me/tags/robustness/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/tags/robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vqa</title>
+      <link>https://modar.me/tags/vqa/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/tags/vqa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

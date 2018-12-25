@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Modar Alfadly</title>
+    <link>https://modar.me/publication_types/8/</link>
+    <description>Recent content in 8 on Modar Alfadly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://modar.me/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robustness Analysis of Visual QA Models by Basic Questions</title>
+      <link>https://modar.me/publication/vqabq-cvpr18/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/publication/vqabq-cvpr18/</guid>
+      <description>This paper was accepted to the Visual Dialog Workshop in CVPR18 [source]</description>
+    </item>
+    
+    <item>
+      <title>VQABQ: Visual Question Answering by Basic Questions</title>
+      <link>https://modar.me/publication/vqabq-cvpr17/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/publication/vqabq-cvpr17/</guid>
+      <description>This paper was accepted to the 2nd VQA workshop in CVPR17 [source]</description>
+    </item>
+    
+  </channel>
+</rss>

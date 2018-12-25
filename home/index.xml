@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Modar Alfadly</title>
+    <link>https://modar.me/home/</link>
+    <description>Recent content in Homes on Modar Alfadly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://modar.me/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://modar.me/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://modar.me/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://modar.me/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/about/</guid>
+      <description>Biography I’m a PhD student at King Abdullah University of Science and Technology (KAUST), pursuing to advance artificial intelligence via understanding deep neural networks. I am part of the Image and Video Understanding Laboratory (IVUL) in the Visual Computing Center (VCC), advised by Bernard Ghanem. I received my MSc degree in Computer Science from KAUST, and my undergraduate degree form King Fahd University of Petroleum and Minerals (KFUPM) in Software Engineering.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://modar.me/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/news/</guid>
+      <description>var news = [[ // &#34;2019-00-00&#34;, // &#34;somethng #{link1}# and #{link2}#&#34;, // &#34;http://example.com&#34;, // link1 // &#34;http://example.com&#34;, // link2 // ], [ &#34;2018-12-18&#34;, &#34;Gave a one hour talk on #{Scan2Mesh}# in an #{IVUL&#39;s group meeting}#&#34;, &#34;https://arxiv.org/abs/1811.10464&#34;, &#34;https://github.com/IVUL-KAUST/GroupReading&#34;, ], [ &#34;2018-12-13&#34;, &#34;Passed the #{qualifying exam}# for the Computer Science PhD program&#34;, &#34;https://cs.kaust.edu.sa/Pages/CS_Qualifying_Exam.aspx&#34;, ], [ &#34;2018-10-31&#34;, // 2 months review period &#34;One oral paper (#{VQA models&#39; robustness}#) accepted to #{AAAI19}#&#34;, &#34;/publication/vqabq-aaai19/&#34;, &#34;</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://modar.me/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://modar.me/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://modar.me/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://modar.me/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Publications</title>
+      <link>https://modar.me/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://modar.me/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://modar.me/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://modar.me/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Projects</title>
+      <link>https://modar.me/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://modar.me/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://modar.me/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://modar.me/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://modar.me/home/contact/</guid>
+      <description>  modar.alfadly@kaust.edu.sa   </description>
+    </item>
+    
+  </channel>
+</rss>
