@@ -45,7 +45,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>https://modar.me/home/news/</guid>
-      <description>var news = [[ // &#34;2019-00-00&#34;, // &#34;somethng #{link1}# and #{link2}#&#34;, // &#34;http://example.com&#34;, // link1 // &#34;http://example.com&#34;, // link2 // ], [ &#34;2018-12-18&#34;, &#34;Gave a one hour talk on #{Scan2Mesh}# in an #{IVUL&#39;s group meeting}#&#34;, &#34;https://arxiv.org/abs/1811.10464&#34;, &#34;https://github.com/IVUL-KAUST/GroupReading&#34;, ], [ &#34;2018-12-13&#34;, &#34;Passed the #{qualifying exam}# for the Computer Science PhD program&#34;, &#34;https://cs.kaust.edu.sa/Pages/CS_Qualifying_Exam.aspx&#34;, ], [ &#34;2018-10-31&#34;, // 2 months review period &#34;One oral paper (#{VQA models&#39; robustness}#) accepted to #{AAAI19}#&#34;, &#34;/publication/vqabq-aaai19/&#34;, &#34;</description>
+      <description></description>
     </item>
     
     <item>
@@ -145,7 +145,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>https://modar.me/home/contact/</guid>
-      <description>  modar.alfadly@kaust.edu.sa   </description>
+      <description></description>
     </item>
     
   </channel>
