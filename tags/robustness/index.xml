@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://modar.me/tags/robustness/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Novel Framework for Robustness Analysis of Visual QA Models</title>
       <link>https://modar.me/publication/vqabq-aaai19/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
       
       <guid>https://modar.me/publication/vqabq-aaai19/</guid>
       <description>In AAAI19, a record number of over 7700 papers were submitted, 7095 were reviewed, a record low of 1150 papers (16.2%) were accepted [source1 - sourc2]</description>
