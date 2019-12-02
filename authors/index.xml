@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Modar Alfadly</title>
+    <link>https://modar.me/authors/</link>
+      <atom:link href="https://modar.me/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://modar.me/img/avatar.png</url>
+      <title>Authors</title>
+      <link>https://modar.me/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Modar Alfadly**&amp;ast;</title>
+      <link>https://modar.me/authors/modar-alfadlyast/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/authors/modar-alfadlyast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernard Ghanem</title>
+      <link>https://modar.me/authors/bernard-ghanem/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/authors/bernard-ghanem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuong Dao-Duc&amp;ast;</title>
+      <link>https://modar.me/authors/cuong-dao-ducast/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/authors/cuong-dao-ducast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia-Hong Huang</title>
+      <link>https://modar.me/authors/jia-hong-huang/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/authors/jia-hong-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Modar Alfadly**</title>
+      <link>https://modar.me/authors/modar-alfadly/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/authors/modar-alfadly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adel Bibi&amp;ast;</title>
+      <link>https://modar.me/authors/adel-bibiast/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/authors/adel-bibiast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://modar.me/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://modar.me/authors/admin/</guid>
+      <description>&lt;p&gt;I’m a PhD student at King Abdullah University of Science and Technology (&lt;a href=&#34;https://kaust.edu.sa&#34;&gt;KAUST&lt;/a&gt;), pursuing to advance artificial intelligence via understanding deep neural networks. I am part of the Image and Video Understanding Laboratory (&lt;a href=&#34;https://ivul.kaust.edu.sa&#34;&gt;IVUL&lt;/a&gt;) in the Visual Computing Center (&lt;a href=&#34;https://vcc.kaust.edu.sa&#34;&gt;VCC&lt;/a&gt;), advised by &lt;a href=&#34;http://bernardghanem.com&#34;&gt;Bernard Ghanem&lt;/a&gt;. I received my MSc degree in Computer Science from KAUST, and my undergraduate degree form King Fahd University of Petroleum and Minerals (&lt;a href=&#34;http://www.kfupm.edu.sa/&#34;&gt;KFUPM&lt;/a&gt;) in Software Engineering. I am a curious scholar with an appetite for learning. I want to understand the world around me and be at the forefront of the unknown. Fully dedicated to fulfilling my duty of passing on knowledge to future generations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

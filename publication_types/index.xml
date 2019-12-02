@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Modar Alfadly</title>
+    <title>Publication_types | Modar Alfadly</title>
     <link>https://modar.me/publication_types/</link>
-    <description>Recent content in Publication_types on Modar Alfadly</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://modar.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://modar.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://modar.me/img/avatar.png</url>
+      <title>Publication_types</title>
+      <link>https://modar.me/publication_types/</link>
+    </image>
     
     <item>
       <title>1</title>
       <link>https://modar.me/publication_types/1/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
-      
       <guid>https://modar.me/publication_types/1/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>8</title>
       <link>https://modar.me/publication_types/8/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0300</pubDate>
-      
       <guid>https://modar.me/publication_types/8/</guid>
       <description></description>
     </item>

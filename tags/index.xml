@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Modar Alfadly</title>
+    <title>Tags | Modar Alfadly</title>
     <link>https://modar.me/tags/</link>
-    <description>Recent content in Tags on Modar Alfadly</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://modar.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://modar.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://modar.me/img/avatar.png</url>
+      <title>Tags</title>
+      <link>https://modar.me/tags/</link>
+    </image>
     
     <item>
       <title>robustness</title>
       <link>https://modar.me/tags/robustness/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
-      
       <guid>https://modar.me/tags/robustness/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>vqa</title>
       <link>https://modar.me/tags/vqa/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
-      
       <guid>https://modar.me/tags/vqa/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>network moments</title>
       <link>https://modar.me/tags/network-moments/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0300</pubDate>
-      
       <guid>https://modar.me/tags/network-moments/</guid>
       <description></description>
     </item>

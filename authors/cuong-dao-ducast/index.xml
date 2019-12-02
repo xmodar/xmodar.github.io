@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuong Dao-Duc&amp;ast; | Modar Alfadly</title>
+    <link>https://modar.me/authors/cuong-dao-ducast/</link>
+      <atom:link href="https://modar.me/authors/cuong-dao-ducast/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cuong Dao-Duc&amp;ast;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://modar.me/img/avatar.png</url>
+      <title>Cuong Dao-Duc&amp;ast;</title>
+      <link>https://modar.me/authors/cuong-dao-ducast/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Framework for Robustness Analysis of Visual QA Models</title>
+      <link>https://modar.me/publication/vqabq-aaai19/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/publication/vqabq-aaai19/</guid>
+      <description>&lt;p&gt;In AAAI19, a record number of over 7700 papers were submitted, 7095 were reviewed, a record low of 1150 papers (16.2%) were accepted [&lt;a href=&#34;https://twitter.com/PVanHentenryck/status/1057849131014782976&#34;&gt;source1&lt;/a&gt; - &lt;a href=&#34;https://blogs.kent.ac.uk/datascience/2018/10/31/shoaibs-paper-appearing-at-aaai-conference/&#34;&gt;sourc2&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

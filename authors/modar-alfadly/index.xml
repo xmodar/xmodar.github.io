@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Modar Alfadly** | Modar Alfadly</title>
+    <link>https://modar.me/authors/modar-alfadly/</link>
+      <atom:link href="https://modar.me/authors/modar-alfadly/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Modar Alfadly**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 25 May 2018 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://modar.me/img/avatar.png</url>
+      <title>**Modar Alfadly**</title>
+      <link>https://modar.me/authors/modar-alfadly/</link>
+    </image>
+    
+    <item>
+      <title>Robustness Analysis of Visual QA Models by Basic Questions</title>
+      <link>https://modar.me/publication/vqabq-cvpr18/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/publication/vqabq-cvpr18/</guid>
+      <description>&lt;p&gt;This paper was accepted to the &lt;a href=&#34;https://visualqa.org/workshop_2018.html&#34;&gt;Visual Dialog Workshop&lt;/a&gt; in CVPR18 [&lt;a href=&#34;https://visualqa.org/abstracts.html&#34;&gt;source&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VQABQ: Visual Question Answering by Basic Questions</title>
+      <link>https://modar.me/publication/vqabq-cvpr17/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0300</pubDate>
+      <guid>https://modar.me/publication/vqabq-cvpr17/</guid>
+      <description>&lt;p&gt;This paper was accepted to the &lt;a href=&#34;https://visualqa.org/workshop_2017.html&#34;&gt;2nd VQA workshop&lt;/a&gt; in CVPR17 [&lt;a href=&#34;https://visualqa.org/abstracts_2017.html&#34;&gt;source&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
