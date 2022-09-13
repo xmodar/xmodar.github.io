@@ -5,36 +5,12 @@
     <link>https://modar.me/tags/</link>
       <atom:link href="https://modar.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://modar.me/img/avatar.png</url>
       <title>Tags</title>
       <link>https://modar.me/tags/</link>
     </image>
-    
-    <item>
-      <title>robustness</title>
-      <link>https://modar.me/tags/robustness/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
-      <guid>https://modar.me/tags/robustness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vqa</title>
-      <link>https://modar.me/tags/vqa/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0300</pubDate>
-      <guid>https://modar.me/tags/vqa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network moments</title>
-      <link>https://modar.me/tags/network-moments/</link>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 +0300</pubDate>
-      <guid>https://modar.me/tags/network-moments/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

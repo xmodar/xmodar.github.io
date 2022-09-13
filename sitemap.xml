@@ -1,121 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://modar.me/authors/modar-alfadlyast/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication_types/1/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication/vqabq-aaai19/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/bernard-ghanem/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/cuong-dao-ducast/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/jia-hong-huang/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication_types/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/tags/robustness/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/tags/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/tags/vqa/</loc>
-    <lastmod>2018-09-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/modar-alfadly/</loc>
-    <lastmod>2018-05-25T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication_types/8/</loc>
-    <lastmod>2018-05-25T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication/vqabq-cvpr18/</loc>
-    <lastmod>2018-05-25T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/adel-bibiast/</loc>
-    <lastmod>2017-11-15T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication/gnm-cvpr18/</loc>
-    <lastmod>2017-11-15T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/tags/network-moments/</loc>
-    <lastmod>2017-11-15T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/publication/vqabq-cvpr17/</loc>
-    <lastmod>2017-05-28T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://modar.me/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://modar.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://modar.me/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://modar.me/talk/</loc>
   </url>
-  
 </urlset>
